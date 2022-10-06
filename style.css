@@ -54,37 +54,7 @@ nav>ul>li:nth-child(1) {
     color: #1BBCEF;
 }
 
-/* .headerMain {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-}
 
-.headerMainLeft {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    width: 700px;
-    gap: 40px;
-    padding-left: 5%;
-}
-
-.headerMainLeft>h1 {
-    font-size: 65px;
-    color: #fff;
-}
-
-.headerMainLeft>p {
-    font-size: 17px;
-    color: #fff;
-    width: 50%;
-}
-
-.headerImg {
-    width: 50%;
-    height: 640px;
-} */
 .headerMain {
     display: flex;
     flex-direction: column-reverse;
